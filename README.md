@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/sanjayramu27261401-web/LeetCode_Problem_Repo/tree/master/0075-sort-colors) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/sanjayramu27261401-web/LeetCode_Problem_Repo/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/sanjayramu27261401-web/LeetCode_Problem_Repo/tree/master/0088-merge-sorted-array) |
 | [0506-relative-ranks](https://github.com/sanjayramu27261401-web/LeetCode_Problem_Repo/tree/master/0506-relative-ranks) |
 ## Sorting
@@ -34,4 +35,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/sanjayramu27261401-web/LeetCode_Problem_Repo/tree/master/0075-sort-colors) |
+## Binary Search
+|  |
+| ------- |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/sanjayramu27261401-web/LeetCode_Problem_Repo/tree/master/0081-search-in-rotated-sorted-array-ii) |
 <!---LeetCode Topics End-->
