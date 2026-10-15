@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sanjayramu27261401-web/LeetCode_Problem_Repo/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/sanjayramu27261401-web/LeetCode_Problem_Repo/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/sanjayramu27261401-web/LeetCode_Problem_Repo/tree/master/0217-contains-duplicate) |
+| [0283-move-zeroes](https://github.com/sanjayramu27261401-web/LeetCode_Problem_Repo/tree/master/0283-move-zeroes) |
 | [0506-relative-ranks](https://github.com/sanjayramu27261401-web/LeetCode_Problem_Repo/tree/master/0506-relative-ranks) |
 ## Sorting
 |  |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/sanjayramu27261401-web/LeetCode_Problem_Repo/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/sanjayramu27261401-web/LeetCode_Problem_Repo/tree/master/0088-merge-sorted-array) |
+| [0283-move-zeroes](https://github.com/sanjayramu27261401-web/LeetCode_Problem_Repo/tree/master/0283-move-zeroes) |
 ## Quicksort
 |  |
 | ------- |
