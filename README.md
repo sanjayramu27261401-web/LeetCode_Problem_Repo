@@ -8,13 +8,27 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/sanjayramu27261401-web/LeetCode_Problem_Repo/tree/master/0075-sort-colors) |
 | [0506-relative-ranks](https://github.com/sanjayramu27261401-web/LeetCode_Problem_Repo/tree/master/0506-relative-ranks) |
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/sanjayramu27261401-web/LeetCode_Problem_Repo/tree/master/0075-sort-colors) |
 | [0506-relative-ranks](https://github.com/sanjayramu27261401-web/LeetCode_Problem_Repo/tree/master/0506-relative-ranks) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/sanjayramu27261401-web/LeetCode_Problem_Repo/tree/master/0506-relative-ranks) |
+## Two Pointers
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/sanjayramu27261401-web/LeetCode_Problem_Repo/tree/master/0075-sort-colors) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/sanjayramu27261401-web/LeetCode_Problem_Repo/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/sanjayramu27261401-web/LeetCode_Problem_Repo/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
