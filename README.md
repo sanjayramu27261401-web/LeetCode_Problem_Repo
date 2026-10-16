@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/sanjayramu27261401-web/LeetCode_Problem_Repo/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/sanjayramu27261401-web/LeetCode_Problem_Repo/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/sanjayramu27261401-web/LeetCode_Problem_Repo/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/sanjayramu27261401-web/LeetCode_Problem_Repo/tree/master/0242-valid-anagram) |
 | [0506-relative-ranks](https://github.com/sanjayramu27261401-web/LeetCode_Problem_Repo/tree/master/0506-relative-ranks) |
 ## Heap (Priority Queue)
 |  |
@@ -47,4 +48,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/sanjayramu27261401-web/LeetCode_Problem_Repo/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/sanjayramu27261401-web/LeetCode_Problem_Repo/tree/master/0242-valid-anagram) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/sanjayramu27261401-web/LeetCode_Problem_Repo/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
