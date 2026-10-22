@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/sanjayramu27261401-web/LeetCode_Problem_Repo/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/sanjayramu27261401-web/LeetCode_Problem_Repo/tree/master/0283-move-zeroes) |
 | [0506-relative-ranks](https://github.com/sanjayramu27261401-web/LeetCode_Problem_Repo/tree/master/0506-relative-ranks) |
+| [0566-reshape-the-matrix](https://github.com/sanjayramu27261401-web/LeetCode_Problem_Repo/tree/master/0566-reshape-the-matrix) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/sanjayramu27261401-web/LeetCode_Problem_Repo/tree/master/0674-longest-continuous-increasing-subsequence) |
 ## Sorting
 |  |
@@ -69,4 +70,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/sanjayramu27261401-web/LeetCode_Problem_Repo/tree/master/0169-majority-element) |
+## Matrix
+|  |
+| ------- |
+| [0566-reshape-the-matrix](https://github.com/sanjayramu27261401-web/LeetCode_Problem_Repo/tree/master/0566-reshape-the-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0566-reshape-the-matrix](https://github.com/sanjayramu27261401-web/LeetCode_Problem_Repo/tree/master/0566-reshape-the-matrix) |
 <!---LeetCode Topics End-->
